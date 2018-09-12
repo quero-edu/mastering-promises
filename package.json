@@ -1,0 +1,44 @@
+{
+  "name": "mastering-promises",
+  "version": "1.0.0",
+  "description": "Learn how to use promises in different cases",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raapperez/mastering-promises.git"
+  },
+  "author": "raapperez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raapperez/mastering-promises/issues"
+  },
+  "homepage": "https://github.com/raapperez/mastering-promises#readme",
+  "dependencies": {
+    "@zeit/next-css": "^0.2.0",
+    "chart.js": "^2.7.2",
+    "highlightjs": "^9.10.0",
+    "js-beautify": "^1.8.6",
+    "lodash": "^4.17.10",
+    "next": "^6.1.2",
+    "prop-types": "^15.6.2",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "redux-devtools-extension": "^2.13.5",
+    "redux-form": "^7.4.2",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.1"
+  }
+}
